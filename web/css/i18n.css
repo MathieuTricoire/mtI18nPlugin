@@ -1,0 +1,5 @@
+#sf_admin_container ul li.sf_admin_action_language_new a,
+#sf_admin_container ul li.sf_admin_action_language_edit a {
+    background: none;
+    padding-left: 0;
+}
